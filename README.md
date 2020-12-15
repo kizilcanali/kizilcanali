@@ -18,7 +18,11 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
   <code><img width="14%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg"></code>
   <code><img width="13%" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg"></code>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=kizilcanali&count_private=true&show_icons=true&theme=vision-friendly-dark height=180 align="center">
 </p>
+
+
 
 <h2  align="center">📫 Contact me on</h2>
 
