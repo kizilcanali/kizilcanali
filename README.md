@@ -18,10 +18,7 @@
   <img width="14%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg">
   <img width="13%" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg">
 </p>
-<p align = "center">
-   <img src="https://github-readme-stats.vercel.app/api?username=kizilcanali&count_private=true&show_icons=true&theme=vision-friendly-dark" height=180>
-</p>
-  
+
 <h2  align="center">📫 Contact me on</h2>
 
 <p align = "center">
